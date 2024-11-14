@@ -1,2 +1,3 @@
 # Rosalind
-Solutions to Rosalind Bioinformatics problems
+My solutions to Rosalind Bioinformatics problems.
+Problems found here: http://www.rosalind.info
